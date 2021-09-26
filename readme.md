@@ -1,6 +1,6 @@
 # Monorepo-test
 
-This is a test repository experimenting with monrepos and lerna to manage dependencies
+This is a test repository experimenting with monorepos and lerna to manage dependencies
 
 Lerna [https://lerna.js.org/]
 
