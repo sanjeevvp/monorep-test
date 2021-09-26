@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@sanjeev:registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
@@ -38,5 +38,5 @@
     "ts-node": "^10.2.1",
     "typescript": "^4.4.3"
   },
-  "gitHead": "058e6f163bab41f58db5672ad7250621f28f8d0e"
+  "gitHead": "42949de333840a1f755b345c12cbf5dc5e2f668c"
 }
