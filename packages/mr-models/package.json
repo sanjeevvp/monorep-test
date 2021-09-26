@@ -20,7 +20,7 @@
     "mongoose": "^6.0.7"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/sanjeevvp"
   },
-  "gitHead": "69a537781e4edb71a3db5a3a98116dc6ef5f4721"
+  "gitHead": "601a4bc5ca3e2b2de750711b84a9b889b04eed27"
 }
