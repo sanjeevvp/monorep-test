@@ -7,16 +7,17 @@
   "license": "ISC",
   "main": "src/index.ts",
   "directories": {
-    "lib": "lib",
+    "src": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "mongoose": "^6.0.7"
-  }
+  },
+  "gitHead": "2136a5d5ee324395c13bfdd4da5773eb699c0195"
 }
