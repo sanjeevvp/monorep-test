@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: '@sanjeevvp/server',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: '@sanjeevvp/database'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/sanjeevvp/Desktop/poc/monorep-test
+3 info versioning independent
+4 error HttpErrorGeneral: 404 Not Found - GET https://npm.pkg.github.com/@sanjeevvp%2fdatabase - npm package "database" does not exist under owner "sanjeevvp"
+4 error     at /Users/sanjeevvp/Desktop/poc/monorep-test/node_modules/npm-registry-fetch/check-response.js:95:15
