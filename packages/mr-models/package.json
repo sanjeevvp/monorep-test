@@ -1,5 +1,5 @@
 {
-  "name": "mr-models",
+  "name": "@sanjeevvp/mr-models",
   "version": "1.1.4",
   "description": "Database models",
   "author": "Sanjeev Ponnapula <sanjeevvarun8@gmail.com>",
@@ -24,7 +24,7 @@
     "url": "https://github.com/sanjeevvp/monorep-test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/sanjeevvp"
+    "@sanjeevvp:registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "f04a222e5b1b8f779ae369943627b3e4ca45c391"
+  "gitHead": "ad740c44c4b073419f4f330419e16f50e09e5d82"
 }

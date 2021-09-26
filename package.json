@@ -13,6 +13,6 @@
     "url": "https://github.com/sanjeevvp/monorep-test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/sanjeevvp"
+    "@sanjeevvp:registry": "https://npm.pkg.github.com"
   }
 }
