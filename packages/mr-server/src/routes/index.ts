@@ -6,4 +6,5 @@ const router = Router()
 // Return all user info
 router.use("user", userRouter)
 
+//testing
 export default router
