@@ -6,11 +6,14 @@ interface INote extends Document {
   createdBy: Schema.Types.ObjectId
 }
 
-const NoteSchema = new Schema({
-  title: { type: String },
-  content: { type: String, required: true },
-  createdBy: { type: Schema.Types.ObjectId, ref: "User" }
-})
+const NoteSchema = new Schema(
+  {
+    title: { type: String },
+    content: { type: String, required: true },
+    createdBy: { type: Schema.Types.ObjectId, ref: "User" }
+  },
+  { timestamps: true }
+)
 
 const Note: Model<INote> = model<INote>("Note", NoteSchema)
 export default Note
