@@ -1,5 +1,7 @@
 import { Request, Response } from "express"
+import { IUser, User } from "@sanjeevvp/mr-models"
 
 export async function getAllUsers(req: Request, res: Response) {
-  return res.sendStatus(200)
+  const users: IUser[] = await User.find()
+  return res.jsonp(users)
 }
