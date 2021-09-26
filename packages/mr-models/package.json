@@ -5,10 +5,8 @@
   "author": "Sanjeev Ponnapula <sanjeevvarun8@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "src/index.ts",
   "directories": {
-    "src": "src",
-    "test": "__tests__"
+    "src": "src"
   },
   "files": [
     "src"
