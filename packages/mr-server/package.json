@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/sanjeevvp/monorep-test/issues"
+  },
+  "dependencies": {
+    "@sanjeevvp/mr-models": "^1.1.5"
   }
 }
