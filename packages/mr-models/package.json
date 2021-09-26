@@ -19,8 +19,12 @@
   "dependencies": {
     "mongoose": "^6.0.7"
   },
+  "repository": {
+    "type": "git",
+    "url": "github.com/sanjeevvp/monorep-test.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/sanjeevvp"
   },
-  "gitHead": "601a4bc5ca3e2b2de750711b84a9b889b04eed27"
+  "gitHead": "9fed2614b874e9f0ec6b9f4ff21fff2d92410c46"
 }
