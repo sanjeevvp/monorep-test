@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/sanjeevvp/monorep-test.git"
+    "url": "https://github.com/sanjeevvp/monorep-test"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/sanjeevvp"
   },
-  "gitHead": "9fed2614b874e9f0ec6b9f4ff21fff2d92410c46"
+  "gitHead": "8d193b08fe7e7a01a6e7cd8f2ef63e4d840606ff"
 }
