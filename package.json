@@ -7,5 +7,12 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjeevvp/monorep-test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/sanjeevvp"
+  }
 }
