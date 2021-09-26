@@ -1,6 +1,6 @@
 {
   "name": "@sanjeevvp/mr-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Server code",
   "author": "Sanjeev Ponnapula <sanjeevvarun8@gmail.com>",
   "homepage": "https://github.com/sanjeevvp/monorep-test#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/sanjeevvp/monorep-test/issues"
   },
   "dependencies": {
-    "@sanjeevvp/mr-models": "^1.1.5",
+    "@sanjeevvp/mr-models": "^1.1.6",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0"
